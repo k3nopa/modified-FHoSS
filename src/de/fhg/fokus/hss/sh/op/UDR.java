@@ -1,7 +1,7 @@
 /*
   *  Copyright (C) 2004-2007 FhG Fokus
   *
-  *  Parts by Instrumentacion y Componentes S.A. (Inycom). Contact at: ims at inycom dot es
+  *  Parts by Instrumentacion y Componentes S.A. (Inycom). Contact at:ims at inycom dot es
   *
   * This file is part of Open IMS Core - an open source IMS CSCFs & HSS
   * implementation
