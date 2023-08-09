@@ -609,4 +609,4 @@ SET character_set_client = @saved_cs_client;
 
 -- Dump completed on 2009-01-07 13:54:27
 # DB access rights
-grant delete,insert,select,update on hss_db.* to hss@localhost identified by 'hss';
+# grant delete,insert,select,update on hss_db.* to hss@localhost identified by 'hss';
